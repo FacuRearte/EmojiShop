@@ -1,4 +1,4 @@
-# EmojiShop
+# EmojiShop (React-Native/Firebase).
 ## Fue un proyecto desarrollado en React-Native con back-end en Firebase.
 
 Preview del proyecto:
